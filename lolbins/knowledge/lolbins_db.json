@@ -1,0 +1,12 @@
+[
+  {
+    "tool": "powershell.exe",
+    "pattern": "-enc",
+    "risk": 50
+  },
+  {
+    "tool": "certutil.exe",
+    "pattern": "-urlcache",
+    "risk": 40
+  }
+]

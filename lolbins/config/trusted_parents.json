@@ -1,0 +1,4 @@
+{
+  "powershell.exe": ["explorer.exe"],
+  "cmd.exe": ["explorer.exe"]
+}

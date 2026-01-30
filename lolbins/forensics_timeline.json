@@ -1,0 +1,3676 @@
+[
+  {
+    "timestamp": "2026-01-29T16:02:55.619321",
+    "event": {
+      "pid": 13536,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:02:56.051974",
+    "event": {
+      "pid": 19760,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.77aa195278d2e9a9",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.77aa195278d2e9a9"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:02:56.117132",
+    "event": {
+      "pid": 20164,
+      "ppid": 6600,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:02:56.433171",
+    "event": {
+      "pid": 23440,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.a87f1ff13731f664",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.a87f1ff13731f664"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:02:56.672899",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:11:00.294604",
+    "event": {
+      "pid": 19760,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.77aa195278d2e9a9",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.77aa195278d2e9a9"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:11:00.701230",
+    "event": {
+      "pid": 23440,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.a87f1ff13731f664",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.a87f1ff13731f664"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:11:00.713144",
+    "event": {
+      "pid": 23508,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:11:00.975016",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:11:02.149591",
+    "event": {
+      "pid": 304,
+      "ppid": 13360,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:11:02.185349",
+    "event": {
+      "pid": 6668,
+      "ppid": 13360,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Write-Output 'Hello World'"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:14:23.787188",
+    "event": {
+      "pid": 10464,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:14:24.559767",
+    "event": {
+      "pid": 19760,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.77aa195278d2e9a9",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.77aa195278d2e9a9"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:14:24.911339",
+    "event": {
+      "pid": 23440,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.a87f1ff13731f664",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.a87f1ff13731f664"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:14:25.128580",
+    "event": {
+      "pid": 27288,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:14:27.415934",
+    "event": {
+      "pid": 29604,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:20:43.411681",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:20:43.706844",
+    "event": {
+      "pid": 19760,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.77aa195278d2e9a9",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.77aa195278d2e9a9"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:20:44.104338",
+    "event": {
+      "pid": 23440,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.a87f1ff13731f664",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.a87f1ff13731f664"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:20:44.371406",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:20:46.685666",
+    "event": {
+      "pid": 23096,
+      "ppid": 23192,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:23:45.318467",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:23:45.651713",
+    "event": {
+      "pid": 19760,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.77aa195278d2e9a9",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.77aa195278d2e9a9"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:23:46.033789",
+    "event": {
+      "pid": 23440,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.a87f1ff13731f664",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.a87f1ff13731f664"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:23:46.326982",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:23:48.630180",
+    "event": {
+      "pid": 19956,
+      "ppid": 3068,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:24:54.797795",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:24:55.134562",
+    "event": {
+      "pid": 19760,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.77aa195278d2e9a9",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.77aa195278d2e9a9"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:24:55.458394",
+    "event": {
+      "pid": 23440,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.a87f1ff13731f664",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.a87f1ff13731f664"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:24:55.707099",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:24:57.976109",
+    "event": {
+      "pid": 31692,
+      "ppid": 21920,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:25:36.528305",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:25:36.788266",
+    "event": {
+      "pid": 19760,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.77aa195278d2e9a9",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.77aa195278d2e9a9"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:25:37.106506",
+    "event": {
+      "pid": 23440,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.a87f1ff13731f664",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.a87f1ff13731f664"
+      ],
+      "risk": 15,
+      "reasons": [
+        "CMD execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:25:37.339415",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:25:39.645463",
+    "event": {
+      "pid": 28208,
+      "ppid": 15892,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:29:45.953367",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:29:46.280516",
+    "event": {
+      "pid": 19760,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.77aa195278d2e9a9",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.77aa195278d2e9a9"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:29:46.629240",
+    "event": {
+      "pid": 23440,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.a87f1ff13731f664",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.a87f1ff13731f664"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:29:46.846570",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:29:49.093688",
+    "event": {
+      "pid": 1380,
+      "ppid": 3312,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:32:51.963557",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:32:52.231927",
+    "event": {
+      "pid": 19760,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.77aa195278d2e9a9",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.77aa195278d2e9a9"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:32:52.611127",
+    "event": {
+      "pid": 23440,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.a87f1ff13731f664",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.a87f1ff13731f664"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:32:55.104469",
+    "event": {
+      "pid": 11060,
+      "ppid": 25352,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:40:11.600486",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:40:11.869259",
+    "event": {
+      "pid": 19760,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.77aa195278d2e9a9",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.77aa195278d2e9a9"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:40:12.227715",
+    "event": {
+      "pid": 23440,
+      "ppid": 21500,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.a87f1ff13731f664",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.a87f1ff13731f664"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:40:14.720175",
+    "event": {
+      "pid": 17524,
+      "ppid": 28984,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T16:57:17.560799",
+    "event": {
+      "pid": 31280,
+      "ppid": 13304,
+      "process": "powershell.exe",
+      "command": [
+        "powershell",
+        "add-appxpackage",
+        "$Env:ProgramW6432\\ASUS\\AacAmbientHal\\AacAmbientLightingPkg.msix",
+        "-ExternalLocation",
+        "$Env:ProgramW6432\\ASUS\\AacAmbientHal"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:00:46.285691",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:00:48.207546",
+    "event": {
+      "pid": 30788,
+      "ppid": 21888,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Write-Output 'Hello World'"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:00:49.274776",
+    "event": {
+      "pid": 12380,
+      "ppid": 21888,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:00:51.448645",
+    "event": {
+      "pid": 12852,
+      "ppid": 21888,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:03:16.697197",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:03:18.634003",
+    "event": {
+      "pid": 13924,
+      "ppid": 23364,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Write-Output 'Hello World'"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:03:19.730197",
+    "event": {
+      "pid": 25768,
+      "ppid": 23364,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:03:21.883409",
+    "event": {
+      "pid": 16368,
+      "ppid": 23364,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:11:35.336223",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:11:35.949016",
+    "event": {
+      "pid": 22932,
+      "ppid": 6600,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:11:37.428972",
+    "event": {
+      "pid": 2228,
+      "ppid": 26080,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Write-Output 'Hello World'"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:11:38.644386",
+    "event": {
+      "pid": 25048,
+      "ppid": 26080,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:11:40.908107",
+    "event": {
+      "pid": 15756,
+      "ppid": 22932,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-Command",
+        "Get-Date"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:11:40.952878",
+    "event": {
+      "pid": 27916,
+      "ppid": 26080,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:11:55.372928",
+    "event": {
+      "pid": 6880,
+      "ppid": 22932,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-Command",
+        "Get-Date"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:12:27.060072",
+    "event": {
+      "pid": 16468,
+      "ppid": 14556,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.acd762ad7d53feaf",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.acd762ad7d53feaf"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:12:27.148625",
+    "event": {
+      "pid": 23120,
+      "ppid": 14556,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.5775db3ed351fd0a",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.5775db3ed351fd0a"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:15:21.729897",
+    "event": {
+      "pid": 21708,
+      "ppid": 22932,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:15:47.511092",
+    "event": {
+      "pid": 16860,
+      "ppid": 22932,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:16:25.499158",
+    "event": {
+      "pid": 10824,
+      "ppid": 22932,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-WindowStyle",
+        "Hidden",
+        "-Command",
+        "Get-Date"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:17:03.543734",
+    "event": {
+      "pid": 26636,
+      "ppid": 22932,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-Command",
+        "Invoke-Expression 'Get-Date'"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:21:12.130720",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:21:12.229367",
+    "event": {
+      "pid": 16468,
+      "ppid": 14556,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.acd762ad7d53feaf",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.acd762ad7d53feaf"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:21:12.861561",
+    "event": {
+      "pid": 22932,
+      "ppid": 6600,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:21:12.892114",
+    "event": {
+      "pid": 23120,
+      "ppid": 14556,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.5775db3ed351fd0a",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.5775db3ed351fd0a"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:21:14.523626",
+    "event": {
+      "pid": 31736,
+      "ppid": 25836,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:21:16.775567",
+    "event": {
+      "pid": 5292,
+      "ppid": 25836,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:21:51.629480",
+    "event": {
+      "pid": 21600,
+      "ppid": 22932,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-Command",
+        "Get-Date"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:22:20.781417",
+    "event": {
+      "pid": 21788,
+      "ppid": 22932,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:22:44.391368",
+    "event": {
+      "pid": 21756,
+      "ppid": 22932,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T17:23:53.468488",
+    "event": {
+      "pid": 12640,
+      "ppid": 22932,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-WindowStyle",
+        "Hidden",
+        "-Command",
+        "Get-Date"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:15:26.485753",
+    "event": {
+      "pid": 10448,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.6e6d5c61bfe94b41",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.6e6d5c61bfe94b41"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:15:26.943124",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:15:26.988543",
+    "event": {
+      "pid": 15756,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.3b5193a7d8fe50b",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.3b5193a7d8fe50b"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:15:28.962513",
+    "event": {
+      "pid": 17188,
+      "ppid": 29284,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Write-Output 'Hello World'"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:15:30.038115",
+    "event": {
+      "pid": 16688,
+      "ppid": 29284,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:15:32.183947",
+    "event": {
+      "pid": 16764,
+      "ppid": 29284,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:16:45.362886",
+    "event": {
+      "pid": 10448,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.6e6d5c61bfe94b41",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.6e6d5c61bfe94b41"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:16:45.749239",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:16:45.782381",
+    "event": {
+      "pid": 15756,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.3b5193a7d8fe50b",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.3b5193a7d8fe50b"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:16:49.059218",
+    "event": {
+      "pid": 30492,
+      "ppid": 26616,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:16:51.163903",
+    "event": {
+      "pid": 1384,
+      "ppid": 26616,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:17:10.328477",
+    "event": {
+      "pid": 24724,
+      "ppid": 6600,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:17:21.699638",
+    "event": {
+      "pid": 25216,
+      "ppid": 24724,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-COMMAND",
+        "GET-DATE"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:17:44.092093",
+    "event": {
+      "pid": 27176,
+      "ppid": 24724,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:50:50.421803",
+    "event": {
+      "pid": 10448,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.6e6d5c61bfe94b41",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.6e6d5c61bfe94b41"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:50:50.774282",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:50:50.808782",
+    "event": {
+      "pid": 15756,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.3b5193a7d8fe50b",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.3b5193a7d8fe50b"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:50:51.789020",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:50:54.064112",
+    "event": {
+      "pid": 1380,
+      "ppid": 31440,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:50:56.235600",
+    "event": {
+      "pid": 18760,
+      "ppid": 31440,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:07.645137",
+    "event": {
+      "pid": 10448,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.6e6d5c61bfe94b41",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.6e6d5c61bfe94b41"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:08.137065",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:08.170902",
+    "event": {
+      "pid": 15756,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.3b5193a7d8fe50b",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.3b5193a7d8fe50b"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:09.254703",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:10.513543",
+    "event": {
+      "pid": 21724,
+      "ppid": 20688,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:12.659219",
+    "event": {
+      "pid": 29212,
+      "ppid": 20688,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:31.679973",
+    "event": {
+      "pid": 10448,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.6e6d5c61bfe94b41",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.6e6d5c61bfe94b41"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:32.080685",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:32.107362",
+    "event": {
+      "pid": 15756,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.3b5193a7d8fe50b",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.3b5193a7d8fe50b"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:33.059545",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:35.374711",
+    "event": {
+      "pid": 25416,
+      "ppid": 26772,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T18:52:36.444850",
+    "event": {
+      "pid": 5656,
+      "ppid": 26772,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:00:22.580115",
+    "event": {
+      "pid": 24436,
+      "ppid": 13304,
+      "process": "powershell.exe",
+      "command": [
+        "powershell",
+        "add-appxpackage",
+        "$Env:ProgramW6432\\ASUS\\AacAmbientHal\\AacAmbientLightingPkg.msix",
+        "-ExternalLocation",
+        "$Env:ProgramW6432\\ASUS\\AacAmbientHal"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:06:13.369506",
+    "event": {
+      "pid": 2600,
+      "ppid": 13304,
+      "process": "powershell.exe",
+      "command": [
+        "powershell",
+        "add-appxpackage",
+        "$Env:ProgramW6432\\ASUS\\AacAmbientHal\\AacAmbientLightingPkg.msix",
+        "-ExternalLocation",
+        "$Env:ProgramW6432\\ASUS\\AacAmbientHal"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:09:03.527057",
+    "event": {
+      "pid": 10448,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\wps\\1.35.148.1\\extnhost\\mc-extn-browserhost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.6e6d5c61bfe94b41",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.6e6d5c61bfe94b41"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:09:03.957527",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:09:04.009429",
+    "event": {
+      "pid": 15756,
+      "ppid": 30328,
+      "process": "cmd.exe",
+      "command": [
+        "C:\\WINDOWS\\system32\\cmd.exe",
+        "/d",
+        "/s",
+        "/c",
+        "C:\\Program",
+        "Files\\McAfee\\WebAdvisor\\BrowserHost.exe chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/ --parent-window=0",
+        "<",
+        "\\\\.\\pipe\\chrome.nativeMessaging.in.3b5193a7d8fe50b",
+        ">",
+        "\\\\.\\pipe\\chrome.nativeMessaging.out.3b5193a7d8fe50b"
+      ],
+      "risk": 0,
+      "reasons": []
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:09:05.009676",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:09:07.281066",
+    "event": {
+      "pid": 29348,
+      "ppid": 26464,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:09:08.365019",
+    "event": {
+      "pid": 29644,
+      "ppid": 26464,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:09:50.113525",
+    "event": {
+      "pid": 9712,
+      "ppid": 6600,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:10:00.381366",
+    "event": {
+      "pid": 21204,
+      "ppid": 9712,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-COMMAND",
+        "GET-DATE"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:10:21.639260",
+    "event": {
+      "pid": 4892,
+      "ppid": 9712,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:10:34.172582",
+    "event": {
+      "pid": 28748,
+      "ppid": 6600,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:10:45.494835",
+    "event": {
+      "pid": 18904,
+      "ppid": 26312,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:10:55.645864",
+    "event": {
+      "pid": 29624,
+      "ppid": 18904,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-COMMAND",
+        "GET-DATE"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:11:04.668079",
+    "event": {
+      "pid": 6980,
+      "ppid": 18904,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:50:35.219901",
+    "event": {
+      "pid": 15252,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:50:35.946560",
+    "event": {
+      "pid": 27288,
+      "ppid": 23968,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"d:\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:50:37.100448",
+    "event": {
+      "pid": 13392,
+      "ppid": 10872,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Write-Output 'Hello World'"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:50:38.176651",
+    "event": {
+      "pid": 17608,
+      "ppid": 10872,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:50:40.295027",
+    "event": {
+      "pid": 3300,
+      "ppid": 10872,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:50:55.886456",
+    "event": {
+      "pid": 23676,
+      "ppid": 6600,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:51:24.995168",
+    "event": {
+      "pid": 17208,
+      "ppid": 23676,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-COMMAND",
+        "GET-DATE"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T19:51:58.774088",
+    "event": {
+      "pid": 25432,
+      "ppid": 23676,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T21:38:13.402160",
+    "event": {
+      "pid": 28328,
+      "ppid": 13304,
+      "process": "powershell.exe",
+      "command": [
+        "powershell",
+        "add-appxpackage",
+        "$Env:ProgramW6432\\ASUS\\AacAmbientHal\\AacAmbientLightingPkg.msix",
+        "-ExternalLocation",
+        "$Env:ProgramW6432\\ASUS\\AacAmbientHal"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T21:43:55.711279",
+    "event": {
+      "pid": 5096,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T21:43:56.827412",
+    "event": {
+      "pid": 17760,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T21:43:59.111658",
+    "event": {
+      "pid": 16992,
+      "ppid": 17660,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T21:44:01.280458",
+    "event": {
+      "pid": 18272,
+      "ppid": 17660,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T21:51:11.896543",
+    "event": {
+      "pid": 16512,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T21:53:48.302100",
+    "event": {
+      "pid": 15052,
+      "ppid": 16512,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T21:54:21.200420",
+    "event": {
+      "pid": 5096,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T21:54:22.146008",
+    "event": {
+      "pid": 19020,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:17:10.954544",
+    "event": {
+      "pid": 5096,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:17:11.896591",
+    "event": {
+      "pid": 15880,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:17:12.213865",
+    "event": {
+      "pid": 21088,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:17:14.363046",
+    "event": {
+      "pid": 21060,
+      "ppid": 10436,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:17:16.486817",
+    "event": {
+      "pid": 19860,
+      "ppid": 10436,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:20:23.315446",
+    "event": {
+      "pid": 5096,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:20:24.241800",
+    "event": {
+      "pid": 14324,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:20:26.747323",
+    "event": {
+      "pid": 14220,
+      "ppid": 17696,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:20:28.871559",
+    "event": {
+      "pid": 8648,
+      "ppid": 17696,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:20:43.722819",
+    "event": {
+      "pid": 20276,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:21:07.003522",
+    "event": {
+      "pid": 11420,
+      "ppid": 20276,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:21:32.470960",
+    "event": {
+      "pid": 21048,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:21:43.084173",
+    "event": {
+      "pid": 21240,
+      "ppid": 21048,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:23:19.713560",
+    "event": {
+      "pid": 5096,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:23:20.892109",
+    "event": {
+      "pid": 21128,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:23:25.138710",
+    "event": {
+      "pid": 10576,
+      "ppid": 13048,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-enc",
+        "d2hvYW1p"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:23:39.912861",
+    "event": {
+      "pid": 8224,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:23:50.539061",
+    "event": {
+      "pid": 20404,
+      "ppid": 8224,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:24:04.302188",
+    "event": {
+      "pid": 21184,
+      "ppid": 8224,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-COMMAND",
+        "GET-DATE"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:24:34.939518",
+    "event": {
+      "pid": 16140,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:24:48.727462",
+    "event": {
+      "pid": 17196,
+      "ppid": 16140,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-COMMAND",
+        "GET-DATE"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:24:52.959061",
+    "event": {
+      "pid": 4964,
+      "ppid": 16140,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:31:29.754576",
+    "event": {
+      "pid": 5096,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:31:30.609809",
+    "event": {
+      "pid": 12632,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:31:33.540695",
+    "event": {
+      "pid": 2396,
+      "ppid": 13516,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:31:51.584108",
+    "event": {
+      "pid": 1908,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:33:39.989832",
+    "event": {
+      "pid": 19380,
+      "ppid": 1908,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-enc",
+        "SQBFAFgAIAAoACcAZwBlAHQALQBwAHIAbwBjAGUAcwBzACcAKQA="
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:34:29.794676",
+    "event": {
+      "pid": 17460,
+      "ppid": 1908,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:35:29.052784",
+    "event": {
+      "pid": 6544,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:35:33.326515",
+    "event": {
+      "pid": 1628,
+      "ppid": 6544,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-enc",
+        "SQBFAFgAIAAoACcAZwBlAHQALQBwAHIAbwBjAGUAcwBzACcAKQA="
+      ],
+      "risk": 80,
+      "reasons": [
+        "PowerShell execution",
+        "Encoded command"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:37:46.676885",
+    "event": {
+      "pid": 5096,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:37:47.391327",
+    "event": {
+      "pid": 11052,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:37:50.414007",
+    "event": {
+      "pid": 12800,
+      "ppid": 16016,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:38:29.554863",
+    "event": {
+      "pid": 12816,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.2
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:38:41.233758",
+    "event": {
+      "pid": 8256,
+      "ppid": 12816,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:38:47.636703",
+    "event": {
+      "pid": 11128,
+      "ppid": 12816,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:39:32.019934",
+    "event": {
+      "pid": 17036,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.2
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:39:59.466900",
+    "event": {
+      "pid": 21320,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.2
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:40:18.562187",
+    "event": {
+      "pid": 21080,
+      "ppid": 21320,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-enc",
+        "SQBFAFgAIAAoACcAZwBlAHQALQBwAHIAbwBjAGUAcwBzACcAKQA="
+      ],
+      "risk": 100,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process",
+        "Encoded command"
+      ],
+      "threat_level": "MEDIUM",
+      "confidence": 1.0
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:40:26.029207",
+    "event": {
+      "pid": 17704,
+      "ppid": 21320,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-enc",
+        "SQBFAFgAIAAoACcAZwBlAHQALQBwAHIAbwBjAGUAcwBzACcAKQA="
+      ],
+      "risk": 100,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process",
+        "Encoded command"
+      ],
+      "threat_level": "MEDIUM",
+      "confidence": 1.0
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:42:37.519702",
+    "event": {
+      "pid": 5096,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:42:38.773088",
+    "event": {
+      "pid": 18064,
+      "ppid": 17164,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:42:41.198674",
+    "event": {
+      "pid": 14704,
+      "ppid": 15200,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T22:42:56.127714",
+    "event": {
+      "pid": 3580,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.2
+    }
+  },
+  {
+    "timestamp": "2026-01-29T23:26:15.202746",
+    "event": {
+      "pid": 20996,
+      "ppid": 12000,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T23:26:15.270983",
+    "event": {
+      "pid": 21488,
+      "ppid": 12000,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-noexit",
+        "-command",
+        "try { . \"c:\\Users\\Vignesh\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\vs\\workbench\\contrib\\terminal\\common\\scripts\\shellIntegration.ps1\" } catch {}"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T23:26:17.468394",
+    "event": {
+      "pid": 17688,
+      "ppid": 13768,
+      "process": "powershell.exe",
+      "command": [
+        "powershell.exe",
+        "-Command",
+        "Get-Process"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T23:27:05.355626",
+    "event": {
+      "pid": 19392,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.2
+    }
+  },
+  {
+    "timestamp": "2026-01-29T23:27:28.728732",
+    "event": {
+      "pid": 20352,
+      "ppid": 7720,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+      ],
+      "risk": 20,
+      "reasons": [
+        "PowerShell execution"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.2
+    }
+  },
+  {
+    "timestamp": "2026-01-29T23:27:36.169134",
+    "event": {
+      "pid": 2660,
+      "ppid": 20352,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-ENC",
+        "D2HVYW1P"
+      ],
+      "risk": 40,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process"
+      ],
+      "threat_level": "LOW",
+      "confidence": 0.4
+    }
+  },
+  {
+    "timestamp": "2026-01-29T23:27:42.601360",
+    "event": {
+      "pid": 20748,
+      "ppid": 20352,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-enc",
+        "SQBFAFgAIAAoACcAZwBlAHQALQBwAHIAbwBjAGUAcwBzACcAKQA="
+      ],
+      "risk": 100,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process",
+        "Encoded command"
+      ],
+      "threat_level": "MEDIUM",
+      "confidence": 1.0
+    }
+  },
+  {
+    "timestamp": "2026-01-29T23:27:53.233059",
+    "event": {
+      "pid": 14236,
+      "ppid": 20352,
+      "process": "powershell.exe",
+      "command": [
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "-enc",
+        "SQBFAFgAIAAoACcAZwBlAHQALQBwAHIAbwBjAGUAcwBzACcAKQA="
+      ],
+      "risk": 100,
+      "reasons": [
+        "PowerShell execution",
+        "Untrusted parent process",
+        "Encoded command"
+      ],
+      "threat_level": "MEDIUM",
+      "confidence": 1.0
+    }
+  }
+]

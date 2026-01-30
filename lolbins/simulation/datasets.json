@@ -1,0 +1,35 @@
+{
+  "dataset_1": [
+    {
+      "scenario": "User administrative activity",
+      "expected_risk": "LOW"
+    },
+    {
+      "scenario": "Scripted system inspection",
+      "expected_risk": "MEDIUM"
+    },
+    {
+      "scenario": "Suspicious automation behavior",
+      "expected_risk": "HIGH"
+    },
+    {
+      "scenario": "Unauthorized execution attempt",
+      "expected_risk": "BLOCKED"
+    }
+  ],
+
+  "dataset_2": [
+    {
+      "scenario": "Routine IT maintenance",
+      "expected_risk": "LOW"
+    },
+    {
+      "scenario": "Unusual command usage",
+      "expected_risk": "MEDIUM"
+    },
+    {
+      "scenario": "Obfuscated execution pattern",
+      "expected_risk": "HIGH"
+    }
+  ]
+}

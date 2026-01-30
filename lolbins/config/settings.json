@@ -1,0 +1,11 @@
+{
+  "defense_mode": "block",
+  "risk_block_threshold": 60,
+  "lolbins": [
+    "powershell.exe",
+    "cmd.exe",
+    "certutil.exe",
+    "rundll32.exe",
+    "wmic.exe"
+  ]
+}
