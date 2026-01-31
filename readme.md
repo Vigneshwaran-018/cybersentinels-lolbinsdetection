@@ -1,4 +1,4 @@
-# LOLBINS-X: Advanced Endpoint Defense System
+# Cyber Sentinels LoLBINS: Advanced Endpoint Defense System
 
 **Cyber Sentinels Detection System** - Advanced Endpoint Defense & Living-Off-The-Land (LOLBins) Detection
 
